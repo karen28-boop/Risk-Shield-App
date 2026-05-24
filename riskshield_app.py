@@ -1,7 +1,4 @@
-# RISKSHIELD ZIMBABWE — COMPLETE ACTUARIAL POLICY COMPLIANCE PLATFORM
-# MERGED VERSION: ALL FORMULAS + SIDEBAR TABS + LIVE RBZ DATA
-# NUST Actuarial Science | IPEC NDS2 Policy Paper 2026
-# Version 10.0 - Competition Ready
+# RISKSHIELD ZIMBABWE 
 
 import pandas as pd
 import numpy as np
